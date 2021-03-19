@@ -211,3 +211,6 @@ curl -X DELETE \
   -H 'cache-control: no-cache'
 ```
 
+## Flow
+
+![WFSDiagram](WFSDiagram.png)
